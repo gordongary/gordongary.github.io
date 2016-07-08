@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>turn</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/stream/</ImageTemplate>
+            <ImageTemplateName>Stream</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/mac/Documents/slider.html</PublishFileName>
+            <PublishIndex>slider.html</PublishIndex>
+            <PublishPath>/Users/mac/Documents</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>PT Sans</TemplateFont>
+            <TemplateName>stream</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/mac/Documents/1.jpg</url>
+                <title>A long time ago in Durham, NC.</title>
+                <filesize>84286</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/2.jpg</url>
+                <title>Gary can still dunk.</title>
+                <filesize>79922</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/bfam.jpg</url>
+                <title>On the sidewalks of New York.</title>
+                <filesize>319779</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/4.jpg</url>
+                <title>Rebecca has proof she is a college graduate.</title>
+                <filesize>88375</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/5.jpg</url>
+                <title>Hannah is the First SET Grand Master.</title>
+                <filesize>110664</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/bgates.jpg</url>
+                <title>One gate.</title>
+                <filesize>908326</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/6.jpg</url>
+                <title>Rebecca in New Zealand.</title>
+                <filesize>83521</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/H&amp;tiger.jpg</url>
+                <title>Hannah in Thailand.</title>
+                <filesize>110337</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/bRGH.jpg</url>
+                <title>Typical dinner at home.</title>
+                <filesize>164505</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/7.jpg</url>
+                <title>Rebecca hangs out at Oberlin.</title>
+                <filesize>99358</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/bH&amp;A.jpg</url>
+                <title>Hannah and her cousin Alice.</title>
+                <filesize>291022</filesize>
+            </Image>
+            <Image>
+                <url>/Users/mac/Documents/9.jpg</url>
+                <title>Our garage doors form a pair of 4 x 4 orthogonal Latin squares. </title>
+                <filesize>84719</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
