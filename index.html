@@ -48,6 +48,11 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
+	<!-- LaTeX -->
+    <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+
 	</head>
 	<body>
 		<header >
@@ -58,7 +63,8 @@
 						<div class="fh5co-section-content">
 							<div class="row">
 								<div class="col-md-9 col-md-offset-1 fh5co-testimony to-animate">
-									<h1 class="fh5co-intro-lead animate-1 to-animate">Gary P. Gordon</h1><br/><br/>
+									<h1 class="fh5co-intro-lead animate-1 to-animate">Gary P. Gordon</h1>
+									<br/>
 									<h4 class="fh5co-intro-sub animate-2 to-animate">
 										Marshall R. Metzgar Professor of Mathematics  <br/>
 									</h4>
@@ -76,9 +82,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
-
-		
+			</div>		
 		</header>
 		
 		<main role="main" id="fh5co-main">
@@ -130,19 +134,17 @@
 								<div class="fh5co-accordion-wrap">
 									<div class="fh5co-accordion to-animate">
 										<div class="fh5co-accordion-head">
-											<a href="#" class="fh5co-accordion-toggle js-fh5co-accordion-toggle">Show More</a>
 											<h3><i class="icon-calculator"></i>Math Horizons</h3>
-										</div>
-										
+											<a href="#" class="fh5co-accordion-toggle js-fh5co-accordion-toggle">Show More</a>
+										</div>								
 										<div class="fh5co-accordion-body active">
 											<p>I am the current Problem Editor for <a href = "http://www.maa.org/publications/periodicals/math-horizons">Math Horizons</a>. Please send me your solutions to current problems, but also your own problems for consideration. Here's a sample: <br/><br/>
 
-											Problem 290 (April, 2013): I have an ordinary deck of 52 cards, and I am playing a game of solitaire as follows: First, starting with a nicely shuffled deck, I lay out 8 cards, face up. Then I remove any four of the cards if their sum is a multiple of 4 (counting J=11, Q=12 and K=13). After removing those four cards, I replace them with four new cards, and I continue this process.<br/><br/>
+											<strong>Problem 290 (April, 2013):</strong> I have an ordinary deck of \(52\) cards, and I am playing a game of solitaire as follows: First, starting with a nicely shuffled deck, I lay out 8 cards, face up. Then I remove any four of the cards if their sum is a multiple of \(4\) (counting \(J=11, Q=12\) and \(K=13\)). After removing those four cards, I replace them with four new cards, and I continue this process.<br/><br/>
 
-											Here's the problem: Is it possible for me to get stuck at any point along the way? Or is it true that I will always be able to clear the deck, regardless of the initial order of the 52 cards in the deck? [<a href = "#solution">Answer below</a>]</p>
-									
+											Here's the problem: Is it possible for me to get stuck at any point along the way? Or is it true that I will always be able to clear the deck, regardless of the initial order of the \(52\) cards in the deck? [<a href = "#solution">Answer below</a>]</p>
+										</div>
 									</div>
-								</div>
 									<!-- END .fh5co-accordion -->
 
 									<div class="fh5co-accordion to-animate">
@@ -211,7 +213,7 @@
 										</div>
 										<div class="fh5co-accordion-body">
 											<section id="solution">
-											<p>You can always clear the deck. Any eight integers must contain a subset of size four that sums to a multiple of 4, and, since the entire deck sums to a multiple of 4, the last 4 cards must be a multiple of 4, too.</p> </section>
+											<p>You can always clear the deck. Any eight integers must contain a subset of size four that sums to a multiple of \(4\), and, since the entire deck sums to a multiple of \(4\), the last \(4\) cards must be a multiple of \(4\), too.</p> </section>
 										</div>	
 									</div>
 									
@@ -274,7 +276,7 @@
 												<textarea name="" id="message" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
 											</div>
 											<div class="form-group to-animate">
-												<input type="submit" class="btn btn-primary btn-block" value="Send Message">
+												<a href="mailto:gordong@lafayette.edu" class="btn btn-primary btn-block">Send Message</a>
 											</div>
 										</div>
 
