@@ -2,7 +2,7 @@ $(document).ready(function() {
 	var custHeight = screen.height;
 	var custWidth = screen.width;
 	if (custWidth <= 1024) {
-		$('#testimony-animate').css('background-image', 'url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/05/Beautiful-Background-Pictures-2.jpg)');
+		$('#testimony-animate').css('background-image', 'url(../images/mobile_cover.jpg)');
 	}
 });
 
