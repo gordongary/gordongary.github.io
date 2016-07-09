@@ -1,3 +1,12 @@
+$(document).ready(function() {
+	var custHeight = screen.height;
+	var custWidth = screen.width;
+
+	if (custWidth <= 1024) {
+		$('#testimony-animate')[0].style.backgroundImage = "url(images/a.jpg)";
+	}
+}
+
 ;(function () {
 	
 	'use strict';
